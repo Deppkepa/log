@@ -1,0 +1,92 @@
+2024-05-27 04:05:13,872 — User-Service — INFO — Start logging
+2024-05-27 04:05:17,429 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 1dea2389686282958c8cb02426497108
+2024-05-27 04:05:18,428 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - bf185ab94bde46f23bbe0f461e5ee80b
+2024-05-27 04:05:18,650 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - d7e84415d31b4a4f01c140d85c3ce21d
+2024-05-27 04:06:50,529 — User-Service — INFO — Start logging - Windows-10-10.0.22631-SP0
+2024-05-27 04:06:50,624 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 92cb97e6558e9dffef756978ce32f822
+2024-05-27 04:06:52,822 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - ea64759316013fa5414d2710288920be
+2024-05-27 04:06:53,367 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 8c789e0d30b877769d2d7c3f776dd5c1
+2024-05-27 04:06:53,590 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 44269cadd5f3c389bcdc7c4f1aeb7d7b
+2024-05-27 19:02:44,318 — User-Service — INFO — Start logging - Windows-10-10.0.22631-SP0
+2024-05-27 19:22:05,315 — User-Service — INFO — Start logging - Windows-10-10.0.22631-SP0
+2024-05-27 19:22:11,732 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - e48d3925f93424f01ed651e0523c2a7c
+2024-05-27 19:22:21,216 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 9cb977bbd804967dd46cbc74cd378a01
+2024-05-27 19:22:21,473 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 748404faa8e8d0985c13e41806c95066
+2024-05-27 19:22:21,794 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 2747d2c444466f300cb5de21ab7638eb
+2024-05-27 19:23:20,906 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - aef6475862f6302d7c8250119baa2644
+2024-05-27 19:23:27,429 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 8ecd7d4f880ba34878365bc4e7f35db4
+2024-05-27 19:25:19,852 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 830b1e3f34a4378dc09c8aba3a3e311f
+2024-05-27 19:26:52,657 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 1ebe1e528cd313d3fc0fc871600c4365
+2024-05-27 19:26:52,667 — publisher — INFO — id: - "1ebe1e528cd313d3fc0fc871600c4365" - Windows-10-10.0.22631-SP0
+2024-05-27 19:27:07,144 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 21e3edc9f188273d474da23e736d73eb
+2024-05-27 19:27:07,154 — publisher — INFO — id: - "21e3edc9f188273d474da23e736d73eb" - Windows-10-10.0.22631-SP0
+2024-05-27 19:31:42,405 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 3e0ff2a22004a391f2f85a4c2647bfeb
+2024-05-27 19:31:42,417 — publisher — INFO — id: - "3e0ff2a22004a391f2f85a4c2647bfeb" - Windows-10-10.0.22631-SP0
+2024-05-27 19:31:42,417 — publisher — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:31:42,602 — publisher — INFO — State is onArtemVWindows-10-10.0.22631-SP0 - "3e0ff2a22004a391f2f85a4c2647bfeb"
+2024-05-27 19:31:44,603 — publisher — INFO — State is onArtemVWindows-10-10.0.22631-SP0 - "3e0ff2a22004a391f2f85a4c2647bfeb"
+2024-05-27 19:31:46,604 — publisher — INFO — State is offArtemVWindows-10-10.0.22631-SP0 - "3e0ff2a22004a391f2f85a4c2647bfeb"
+2024-05-27 19:31:48,604 — publisher — INFO — State is offArtemVWindows-10-10.0.22631-SP0 - "3e0ff2a22004a391f2f85a4c2647bfeb"
+2024-05-27 19:31:50,605 — publisher — INFO — State is offArtemVWindows-10-10.0.22631-SP0 - "3e0ff2a22004a391f2f85a4c2647bfeb"
+2024-05-27 19:32:00,217 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - add828bdc287cd909738385ef2235ccd
+2024-05-27 19:32:00,227 — publisher — INFO — id: - "add828bdc287cd909738385ef2235ccd" - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:00,228 — publisher — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:00,844 — publisher — INFO — State is onArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:02,845 — publisher — INFO — State is onArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:04,846 — publisher — INFO — State is offArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:06,847 — publisher — INFO — State is offArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:08,848 — publisher — INFO — State is onArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:10,849 — publisher — INFO — State is offArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:12,849 — publisher — INFO — State is offArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:14,850 — publisher — INFO — State is onArtemV - Windows-10-10.0.22631-SP0 - "add828bdc287cd909738385ef2235ccd"
+2024-05-27 19:32:24,560 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - bc7250d43874d82c1b248aaf85155eda
+2024-05-27 19:32:24,571 — publisher — INFO — id: - "bc7250d43874d82c1b248aaf85155eda" - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:24,572 — publisher — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:24,713 — publisher — INFO — State is offDasha - Windows-10-10.0.22631-SP0 - "bc7250d43874d82c1b248aaf85155eda"
+2024-05-27 19:32:26,713 — publisher — INFO — State is offDasha - Windows-10-10.0.22631-SP0 - "bc7250d43874d82c1b248aaf85155eda"
+2024-05-27 19:32:28,714 — publisher — INFO — State is offDasha - Windows-10-10.0.22631-SP0 - "bc7250d43874d82c1b248aaf85155eda"
+2024-05-27 19:32:30,715 — publisher — INFO — State is onDasha - Windows-10-10.0.22631-SP0 - "bc7250d43874d82c1b248aaf85155eda"
+2024-05-27 19:32:32,716 — publisher — INFO — State is offDasha - Windows-10-10.0.22631-SP0 - "bc7250d43874d82c1b248aaf85155eda"
+2024-05-27 19:32:36,529 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 963e36df09f15efd25e1e0abadce8042
+2024-05-27 19:32:36,539 — publisher — INFO — id: - "963e36df09f15efd25e1e0abadce8042" - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:36,540 — publisher — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:32:36,689 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:38,690 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:40,690 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:42,692 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:44,692 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:46,693 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:48,694 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:50,695 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:52,696 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:32:54,697 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "963e36df09f15efd25e1e0abadce8042"
+2024-05-27 19:47:16,860 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 5719f86c4328f8a1f8631db85e39b73e
+2024-05-27 19:47:16,869 — subscriber — INFO — id: - "5719f86c4328f8a1f8631db85e39b73e" - Windows-10-10.0.22631-SP0
+2024-05-27 19:47:16,870 — subscriber — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:49:53,459 — User-Service — INFO — Start logging - Windows-10-10.0.22631-SP0
+2024-05-27 19:49:56,983 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - 1291eb868bf72714f199f644b50ef9f6
+2024-05-27 19:49:56,996 — subscriber — INFO — id: - "1291eb868bf72714f199f644b50ef9f6" - Windows-10-10.0.22631-SP0
+2024-05-27 19:49:56,998 — subscriber — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:51:25,358 — User-Service — INFO — id generated - Windows-10-10.0.22631-SP0 - eb3b86953e6e44359d2c73a14e20f699
+2024-05-27 19:51:25,377 — publisher — INFO — id: - "eb3b86953e6e44359d2c73a14e20f699" - Windows-10-10.0.22631-SP0
+2024-05-27 19:51:25,380 — publisher — INFO — Connecting to brokerbroker.emqx.io - Windows-10-10.0.22631-SP0
+2024-05-27 19:51:25,984 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:27,326 — subscriber — INFO — received message =off Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:27,987 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:29,135 — subscriber — INFO — received message =off Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:29,989 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:31,123 — subscriber — INFO — received message =off Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:31,990 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:33,123 — subscriber — INFO — received message =off Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:33,991 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:35,123 — subscriber — INFO — received message =on Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:35,993 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:37,127 — subscriber — INFO — received message =on Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:37,994 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:39,127 — subscriber — INFO — received message =on Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:39,995 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:41,127 — subscriber — INFO — received message =on Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:41,997 — publisher — INFO — State is on Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:43,131 — subscriber — INFO — received message =on Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
+2024-05-27 19:51:43,998 — publisher — INFO — State is off Dasha - Windows-10-10.0.22631-SP0 - "eb3b86953e6e44359d2c73a14e20f699"
+2024-05-27 19:51:45,131 — subscriber — INFO — received message =off Dasha - Windows-10-10.0.22631-SP0 - "1291eb868bf72714f199f644b50ef9f6"
